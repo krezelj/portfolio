@@ -1,0 +1,6 @@
+E:\Files\CodingFiles\C#\EvolutionSimulation\EvolutionSimulatorLibrary\bin\Debug\EvolutionSimulatorLibrary.dll
+E:\Files\CodingFiles\C#\EvolutionSimulation\EvolutionSimulatorLibrary\bin\Debug\EvolutionSimulatorLibrary.pdb
+E:\Files\CodingFiles\C#\EvolutionSimulation\EvolutionSimulatorLibrary\obj\Debug\EvolutionSimulatorLibrary.csproj.CoreCompileInputs.cache
+E:\Files\CodingFiles\C#\EvolutionSimulation\EvolutionSimulatorLibrary\obj\Debug\EvolutionSimulatorLibrary.dll
+E:\Files\CodingFiles\C#\EvolutionSimulation\EvolutionSimulatorLibrary\obj\Debug\EvolutionSimulatorLibrary.pdb
+E:\Files\CodingFiles\C#\EvolutionSimulation\EvolutionSimulatorLibrary\obj\Debug\EvolutionSimulatorLibrary.csprojAssemblyReference.cache

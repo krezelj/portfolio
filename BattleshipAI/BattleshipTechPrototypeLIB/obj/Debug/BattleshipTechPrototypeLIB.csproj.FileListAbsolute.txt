@@ -1,0 +1,6 @@
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototypeLIB\bin\Debug\BattleshipTechPrototypeLIB.dll
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototypeLIB\bin\Debug\BattleshipTechPrototypeLIB.pdb
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototypeLIB\obj\Debug\BattleshipTechPrototypeLIB.csprojAssemblyReference.cache
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototypeLIB\obj\Debug\BattleshipTechPrototypeLIB.csproj.CoreCompileInputs.cache
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototypeLIB\obj\Debug\BattleshipTechPrototypeLIB.dll
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototypeLIB\obj\Debug\BattleshipTechPrototypeLIB.pdb

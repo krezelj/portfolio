@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatchedConicsPrototypeUI", "PatchedConicsPrototypeUI\PatchedConicsPrototypeUI.csproj", "{D70FC2B4-866A-47AB-AD0E-DEBD24A859D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatchedConicsLibrary", "PatchedConicsLibrary\PatchedConicsLibrary.csproj", "{D75741A6-38C1-45DB-884F-F070A7239B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70FC2B4-866A-47AB-AD0E-DEBD24A859D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70FC2B4-866A-47AB-AD0E-DEBD24A859D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70FC2B4-866A-47AB-AD0E-DEBD24A859D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70FC2B4-866A-47AB-AD0E-DEBD24A859D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75741A6-38C1-45DB-884F-F070A7239B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75741A6-38C1-45DB-884F-F070A7239B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75741A6-38C1-45DB-884F-F070A7239B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75741A6-38C1-45DB-884F-F070A7239B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38383DDF-EFDD-482C-9BCB-35C0CF8AD9A8}
+	EndGlobalSection
+EndGlobal

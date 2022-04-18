@@ -1,0 +1,13 @@
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototype\bin\Debug\BattleshipTechPrototype.exe.config
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototype\bin\Debug\BattleshipTechPrototype.exe
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototype\bin\Debug\BattleshipTechPrototype.pdb
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototype\bin\Debug\BattleshipTechPrototypeLIB.dll
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototype\bin\Debug\BattleshipTechPrototypeLIB.pdb
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototype\obj\Debug\BattleshipTechPrototype.csprojAssemblyReference.cache
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototype\obj\Debug\BattleshipTechPrototype.BoardForm.resources
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototype\obj\Debug\BattleshipTechPrototype.Properties.Resources.resources
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototype\obj\Debug\BattleshipTechPrototype.csproj.GenerateResource.cache
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototype\obj\Debug\BattleshipTechPrototype.csproj.CoreCompileInputs.cache
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototype\obj\Debug\BattleshipTechPrototype.csproj.CopyComplete
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototype\obj\Debug\BattleshipTechPrototype.exe
+E:\Files\CodingFiles\C#\BattleshipTechPrototype\BattleshipTechPrototype\obj\Debug\BattleshipTechPrototype.pdb

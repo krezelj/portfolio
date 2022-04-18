@@ -1,0 +1,8 @@
+E:\Files\CodingFiles\C#\PatchedConicsPrototype\PatchedConicsLibrary\bin\Debug\PatchedConicsLibrary.dll
+E:\Files\CodingFiles\C#\PatchedConicsPrototype\PatchedConicsLibrary\bin\Debug\PatchedConicsLibrary.pdb
+E:\Files\CodingFiles\C#\PatchedConicsPrototype\PatchedConicsLibrary\bin\Debug\DataStructuresLibrary.dll
+E:\Files\CodingFiles\C#\PatchedConicsPrototype\PatchedConicsLibrary\obj\Debug\PatchedConicsLibrary.csprojAssemblyReference.cache
+E:\Files\CodingFiles\C#\PatchedConicsPrototype\PatchedConicsLibrary\obj\Debug\PatchedConicsLibrary.csproj.CoreCompileInputs.cache
+E:\Files\CodingFiles\C#\PatchedConicsPrototype\PatchedConicsLibrary\obj\Debug\PatchedConicsLibrary.csproj.CopyComplete
+E:\Files\CodingFiles\C#\PatchedConicsPrototype\PatchedConicsLibrary\obj\Debug\PatchedConicsLibrary.dll
+E:\Files\CodingFiles\C#\PatchedConicsPrototype\PatchedConicsLibrary\obj\Debug\PatchedConicsLibrary.pdb

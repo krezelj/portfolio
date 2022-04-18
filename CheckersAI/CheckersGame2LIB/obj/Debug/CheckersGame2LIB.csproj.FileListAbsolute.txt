@@ -1,0 +1,12 @@
+E:\Files\CodingFiles\C#\CheckersGame2\CheckersGame2LIB\bin\Debug\CheckersGame2LIB.dll
+E:\Files\CodingFiles\C#\CheckersGame2\CheckersGame2LIB\bin\Debug\CheckersGame2LIB.pdb
+E:\Files\CodingFiles\C#\CheckersGame2\CheckersGame2LIB\obj\Debug\CheckersGame2LIB.csproj.CoreCompileInputs.cache
+E:\Files\CodingFiles\C#\CheckersGame2\CheckersGame2LIB\obj\Debug\CheckersGame2LIB.dll
+E:\Files\CodingFiles\C#\CheckersGame2\CheckersGame2LIB\obj\Debug\CheckersGame2LIB.pdb
+E:\Files\CodingFiles\C#\CheckersGame2\CheckersGame2LIB\obj\Debug\CheckersGame2LIB.csprojAssemblyReference.cache
+D:\C#\C#\CheckersGame2\CheckersGame2LIB\bin\Debug\CheckersGame2LIB.dll
+D:\C#\C#\CheckersGame2\CheckersGame2LIB\bin\Debug\CheckersGame2LIB.pdb
+D:\C#\C#\CheckersGame2\CheckersGame2LIB\obj\Debug\CheckersGame2LIB.csprojAssemblyReference.cache
+D:\C#\C#\CheckersGame2\CheckersGame2LIB\obj\Debug\CheckersGame2LIB.csproj.CoreCompileInputs.cache
+D:\C#\C#\CheckersGame2\CheckersGame2LIB\obj\Debug\CheckersGame2LIB.dll
+D:\C#\C#\CheckersGame2\CheckersGame2LIB\obj\Debug\CheckersGame2LIB.pdb
