@@ -15,6 +15,8 @@ Overview of some of my projects.
 ## SpotiMy
 Python Dashboard presenting data collected by Spotify and fetched using Spotify API. Dashboard was made using ```dash``` library. Data was processed using ```pandas```, ```numpy```. Visualisations were made using ```plotly```. In addition, ```.css``` files were used to customise the look of the dashboard.
 
+Apart from graphs the data is also shown as modified-at-run-time ```.md``` files. The dashboard also includes an interactive song recommender (based on users streaming history).
+
 Orignally the data was collected for the three members of the group but in order to protect the privacy of the other to members their data was removed and names were changed. The functionality that allows to switch active user was not removed but only one of the tabs is showing the data.
 On top of that my personal data was obfuscated.
 
