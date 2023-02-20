@@ -2,7 +2,7 @@
 
 Overview of some of my projects.
 
-**NOTE:** Some of the projects have their own github repository and relevant links are provided.
+Some of the projects have their own github repository and relevant links are provided. If there is no provided link then the project is already included in this repository.
 
 # Project List
 
